@@ -32,7 +32,7 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/vaibhavbhalla" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[[https://linkedin.com/in/vaibhavbhalla](https://www.linkedin.com/in/vaibhav-bhalla-31532824a/)](https://www.linkedin.com/in/vaibhav-bhalla-31532824a/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vaibhavbhalla67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
