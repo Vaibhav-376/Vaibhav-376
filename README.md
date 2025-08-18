@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **an Admin Dashboard & E-commerce Jewelry Website**
-- 🌱 I’m currently learning **Agentic AI, Meta Ads, and Striver's DSA Sheet**
+- 🌱 I’m currently learning **Agentic AI
 - 👯 I’m looking to collaborate on **Full-stack MERN, AI Tools, and SaaS Projects**
 - 💬 Ask me about **React, Node.js, Next.js, Prisma, MySQL, MongoDB, Redux, TypeScript**
 - 📫 How to reach me: [vaibhavbhalla67@gmail.com](mailto:vaibhavbhalla67@gmail.com)
